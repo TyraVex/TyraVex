@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working on machine learning!<br>👯 I’m fascinated by Linux, programming, cybersecurity and AI<br>🤝 I’m looking for help with pressor<br>🌱 I’m currently learning ML, HTML/CSS/JS, Databases, PHP, C.<br>⚡ Eagerly anticipating remote internships, primarily focused on Linux and shell scripting.
+# Hello!
+🔭 I’m currently working on machine learning!<br>💫 I’m fascinated by Linux, programming, cybersecurity and AI<br>🤝 I’m looking for help with pressor<br>🌱 I’m currently learning ML, HTML/CSS/JS, Databases, PHP, C.<br>⚡ Eagerly anticipating remote internships, primarily focused on Linux and shell scripting.
 
 
 ## 🌐 Socials:
